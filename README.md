@@ -58,70 +58,71 @@ These patterns reflect how AI is entering the spaces where public decisions are 
 Instead of listing capabilities, we start with the **questions** people in public-interest systems face:
 
 - How do I structure PDFs and forms into usable data without losing trust or auditability?  
-  → **Automated Document Intelligence**
+  → [Automated Document Intelligence](./Automated%20Document%20Intelligence.md)
 
 - How do I accurately and systematically extract actionable insights from free-text, genomic, audio, or social data?  
-  → **Information Extraction & Interpretation**
+  → [Information Extraction & Interpretation](./Information%20Extraction%20and%20Interpretation.md)
 
 - How do I monitor for fairness loss once a model is deployed and in use?  
-  → **Bias & Equity Monitoring**
+  → [Bias & Equity Monitoring](./Bias%20and%20Equity%20Monitoring.md)
 
 - Are there patterns—like benefit churn or complaint spikes—that signal a resident might need help?  
-  → **Civic Signal Detection for Resident Support**
+  → [Civic Signal Detection for Resident Support](./Civic%20Signal%20Detection%20for%20Resident%20Support.md)
 
 - Can we make sure translated notices still sound like we care?  
-  → **Communication & Translation Automation**
+  → [Communication & Translation Automation](./Communication%20and%20Translation%20Automation.md)
 
 - How do I explain a decision—months later—to an auditor, or even a judge?  
-  → **Decision Traceability & Institutional Memory**
+  → [Decision Traceability & Institutional Memory](./Decision%20Traceability%20and%20Institutional%20Memory.md)
 
 - How do I prioritize inspections, case reviews, or interventions fairly under resource constraints?  
-  → **Risk Scoring for Prioritization**
+  → [Risk Scoring for Prioritization](./Risk%20Scoring%20for%20Prioritization.md)
 
 - Can we build AI systems that recommend actions without replacing human discretion?  
-  → **Decision Suggestion Algorithms**
+  → [Decision Suggestion Algorithms](./Decision%20Suggestion%20Algorithms.md)
 
 - How do I structure eligibility or compliance checks to be explainable, defensible, and equitable?  
-  → **Eligibility or Compliance Matching**
+  → [Eligibility or Compliance Matching](./Eligibility%20or%20Compliance%20Matching.md)
 
 - How can we proactively find and support residents before needs escalate unseen?  
-  → **Outreach Targeting & Resource Deployment**
+  → [Outreach Targeting & Resource Deployment](./Outreach%20Targeting%20and%20Resource%20Deployment.md)
 
 - What parts of the city are economically struggling, based on non-traditional signals?  
-  → **Economic Development & Business Sentiment Analysis**
+  → [Economic Development & Business Sentiment Analysis](./Economic%20Development%20and%20Business%20Sentiment%20Analysis.md)
 
 - How do I allocate scarce health or safety resources before a crisis peaks?  
-  → **Emergency & Public Health Response**
+  → [Emergency & Public Health Response](./Emergency%20and%20Public%20Health%20Response.md)
 
 - Which blocks are at environmental risk—and how can we detect utility anomalies before they cascade?  
-  → **Environmental & Utility Monitoring**
+  → [Environmental & Utility Monitoring](./Environmental%20and%20Utility%20Monitoring.md)
 
 - How do I flag possible fraud that’s not just suspicious, but defensible?  
-  → **Fraud, Risk & Compliance Analytics**
+  → [Fraud, Risk & Compliance Analytics](./Fraud%20Risk%20and%20Compliance%20Analytics.md)
 
 - How can planners, residents, and agencies all understand the impact of new zoning rules?  
-  → **Planning, Mapping, & Visualization**
+  → [Planning, Mapping, & Visualization](./Planning%20Mapping%20and%20Visualization.md)
 
 - Where do cases get stuck, dropped, or delayed—and how can I optimize them fairly?  
-  → **Predictive Case & Service Optimization**
+  → [Predictive Case & Service Optimization](./Predictive%20Case%20and%20Service%20Optimization.md)
 
 - How do I maintain infrastructure predictively, before failure—not after?  
-  → **Predictive Maintenance & Infrastructure Monitoring**
+  → [Predictive Maintenance & Infrastructure Monitoring](./Predictive%20Maintenance%20and%20Infrastructure%20Monitoring.md)
 
 - Before a new rule is passed, can we model how it might affect different populations?  
-  → **Regulation Change Impact Modeling**
+  → [Regulation Change Impact Modeling](./Regulation%20Change%20Impact%20Modeling.md)
 
 - What are people actually saying—in reviews, surveys, or social media?  
-  → **Sentiment & Opinion Mining**
+  → [Sentiment & Opinion Mining](./Sentiment%20and%20Opinion%20Mining.md)
 
 - How do we balance throughput and fairness in managing urban mobility?  
-  → **Smart City Mobility & Traffic Optimization**
+  → [Smart City Mobility & Traffic Optimization](./Smart%20City%20Mobility%20and%20Traffic%20Optimization.md)
 
 - How do we automate and optimize operational workflows—routing, triage, scheduling—at scale without losing flexibility?  
-  → **Operational Automation & Optimization**
+  → [Operational Automation & Optimization](./Operational%20Automation%20and%20Optimization.md)
 
 - Can AI be used in surveillance settings while respecting ethics and legal guardrails?  
-  → **Surveillance & Public Safety Augmentation**
+  → [Surveillance & Public Safety Augmentation](./Surveillance%20and%20Public%20Safety%20Augmentation.md)
+
 
 ---
 
