@@ -4,7 +4,8 @@
 
 ---
 
-![CognitiFrame Cover](./images/cognitiframe.png)
+<img src="./images/cognitiframe.png" alt="CognitiFrame Cover" width="300"/>
+
 
 ## 📘 Preface
 
