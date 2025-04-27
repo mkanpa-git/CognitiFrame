@@ -4,6 +4,8 @@
 
 ---
 
+![CognitiFrame Cover](./images/cognitiframe.png)
+
 ## 📘 Preface
 
 We’ve grown comfortable thinking about AI in terms of **context windows**, **agentic frameworks**, **workflow orchestrators**, and an ever-expanding alphabet of technical splendor.  
